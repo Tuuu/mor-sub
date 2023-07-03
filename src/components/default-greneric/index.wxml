@@ -1,0 +1,4 @@
+<view class="container">
+用户名称
+</view>
+<view >{{motto}}</view>

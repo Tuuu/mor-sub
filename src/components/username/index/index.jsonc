@@ -1,0 +1,9 @@
+{
+  "component": true,
+
+  "componentGenerics": {
+    "user-avatar": {
+      "default": "../../default-greneric/index"
+    }
+  }
+}
